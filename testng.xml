@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Dictionary">
+    <test name="Smoke">
+        <classes>
+            <class name="test.C01_User_Exits_App"/>
+<!--            <class name="test.C02_History_Function_Works_Fine"/>-->
+<!--            <class name="test.C03_Bookmarks_Function_Works_Fine"/>-->
+<!--            <class name="test.C04_Can_Add_Remove_Note"/>-->
+<!--            <class name="test.C05_Verify_Website"/>-->
+        </classes>
+    </test>
+</suite>
